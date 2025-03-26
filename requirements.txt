@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+ultralytics
+dxcam
+pyautogui
+opencv-python
